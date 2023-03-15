@@ -1642,6 +1642,48 @@
           "value": "{theme.gray.800}",
           "type": "color"
         }
+      },
+      "gradient": {
+        "50": {
+          "value": "linear-gradient(0deg, {theme.primary.50} 10%, {theme.secondary.50} 100%)",
+          "type": "color"
+        },
+        "100": {
+          "value": "linear-gradient(0deg, {theme.primary.100} 10%, {theme.secondary.100} 100%)",
+          "type": "color"
+        },
+        "200": {
+          "value": "linear-gradient(0deg, {theme.primary.200} 10%, {theme.secondary.200} 100%)",
+          "type": "color"
+        },
+        "300": {
+          "value": "linear-gradient(0deg, {theme.primary.300} 10%, {theme.secondary.300} 100%)",
+          "type": "color"
+        },
+        "400": {
+          "value": "linear-gradient(0deg, {theme.primary.400} 10%, {theme.secondary.400} 100%)",
+          "type": "color"
+        },
+        "500": {
+          "value": "linear-gradient(0deg, {theme.primary.500} 10%, {theme.secondary.500} 100%)",
+          "type": "color"
+        },
+        "600": {
+          "value": "linear-gradient(0deg, {theme.primary.600} 10%, {theme.secondary.600} 100%)",
+          "type": "color"
+        },
+        "700": {
+          "value": "linear-gradient(0deg, {theme.primary.700} 10%, {theme.secondary.700} 100%)",
+          "type": "color"
+        },
+        "800": {
+          "value": "linear-gradient(0deg, {theme.primary.800} 10%, {theme.secondary.800} 100%)",
+          "type": "color"
+        },
+        "900": {
+          "value": "linear-gradient(0deg, {theme.primary.900} 10%, {theme.secondary.900} 100%)",
+          "type": "color"
+        }
       }
     }
   },
@@ -1846,6 +1888,48 @@
       "shadow": {
         "default": {
           "value": "{theme.brand.black}",
+          "type": "color"
+        }
+      },
+      "gradient": {
+        "50": {
+          "value": "linear-gradient(0deg, {theme.primary.900} 10%, {theme.secondary.900} 100%)",
+          "type": "color"
+        },
+        "100": {
+          "value": "linear-gradient(0deg, {theme.primary.800} 10%, {theme.secondary.800} 100%)",
+          "type": "color"
+        },
+        "200": {
+          "value": "linear-gradient(0deg, {theme.primary.700} 10%, {theme.secondary.700} 100%)",
+          "type": "color"
+        },
+        "300": {
+          "value": "linear-gradient(0deg, {theme.primary.600} 10%, {theme.secondary.600} 100%)",
+          "type": "color"
+        },
+        "400": {
+          "value": "linear-gradient(0deg, {theme.primary.500} 10%, {theme.secondary.500} 100%)",
+          "type": "color"
+        },
+        "500": {
+          "value": "linear-gradient(0deg, {theme.primary.400} 10%, {theme.secondary.400} 100%)",
+          "type": "color"
+        },
+        "600": {
+          "value": "linear-gradient(0deg, {theme.primary.300} 10%, {theme.secondary.300} 100%)",
+          "type": "color"
+        },
+        "700": {
+          "value": "linear-gradient(0deg, {theme.primary.200} 10%, {theme.secondary.200} 100%)",
+          "type": "color"
+        },
+        "800": {
+          "value": "linear-gradient(0deg, {theme.primary.100} 10%, {theme.secondary.100} 100%)",
+          "type": "color"
+        },
+        "900": {
+          "value": "linear-gradient(0deg, {theme.primary.50} 10%, {theme.secondary.50} 100%)",
           "type": "color"
         }
       }
@@ -3771,6 +3855,48 @@
             "value": "{theme.fg.components.callouts.bg}",
             "type": "color"
           }
+        }
+      },
+      "gradient-color": {
+        "50": {
+          "value": "{theme.gradient.50}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{theme.gradient.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{theme.gradient.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{theme.gradient.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{theme.gradient.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{theme.gradient.500}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{theme.gradient.600}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{theme.gradient.700}",
+          "type": "color"
+        },
+        "800": {
+          "value": "{theme.gradient.800}",
+          "type": "color"
+        },
+        "900": {
+          "value": "{theme.gradient.900}",
+          "type": "color"
         }
       }
     },
