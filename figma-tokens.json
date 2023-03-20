@@ -2852,7 +2852,7 @@
   "Grada-UI": {
     "border radius": {
       "default": {
-        "value": "4",
+        "value": "6",
         "type": "borderRadius"
       },
       "sm": {
@@ -2897,11 +2897,11 @@
       }
     },
     "bodyfont": {
-      "value": "Montserrat",
+      "value": "Poppins",
       "type": "fontFamilies"
     },
     "headingfont": {
-      "value": "Zilla Slab",
+      "value": "Poppins",
       "type": "fontFamilies"
     },
     "fontweight": {
@@ -3525,43 +3525,43 @@
       },
       "secondary": {
         "50": {
-          "value": "{Colors.Rose.50}",
+          "value": "{Colors.Pink.50}",
           "type": "color"
         },
         "100": {
-          "value": "{Colors.Rose.100}",
+          "value": "{Colors.Pink.100}",
           "type": "color"
         },
         "200": {
-          "value": "{Colors.Rose.200}",
+          "value": "{Colors.Pink.200}",
           "type": "color"
         },
         "300": {
-          "value": "{Colors.Rose.300}",
+          "value": "{Colors.Pink.300}",
           "type": "color"
         },
         "400": {
-          "value": "{Colors.Rose.400}",
+          "value": "{Colors.Pink.400}",
           "type": "color"
         },
         "500": {
-          "value": "{Colors.Rose.500}",
+          "value": "{Colors.Pink.500}",
           "type": "color"
         },
         "600": {
-          "value": "{Colors.Rose.600}",
+          "value": "{Colors.Pink.600}",
           "type": "color"
         },
         "700": {
-          "value": "{Colors.Rose.700}",
+          "value": "{Colors.Pink.700}",
           "type": "color"
         },
         "800": {
-          "value": "{Colors.Rose.800}",
+          "value": "{Colors.Pink.800}",
           "type": "color"
         },
         "900": {
-          "value": "{Colors.Rose.900}",
+          "value": "{Colors.Pink.900}",
           "type": "color"
         }
       },
@@ -3739,6 +3739,36 @@
             "value": "{theme.fg.text-secondary}",
             "type": "color"
           }
+        },
+        "font-color": {
+          "25": {
+            "value": "{theme.brand.white}",
+            "type": "color"
+          },
+          "50": {
+            "value": "{theme.gray-color.50}",
+            "type": "color"
+          },
+          "100": {
+            "value": "{theme.gray-color.100}",
+            "type": "color"
+          },
+          "200": {
+            "value": "{theme.gray-color.200}",
+            "type": "color"
+          },
+          "300": {
+            "value": "{theme.gray-color.300}",
+            "type": "color"
+          },
+          "400": {
+            "value": "{theme.gray-color.400}",
+            "type": "color"
+          },
+          "500": {
+            "value": "{theme.gray-color.500}",
+            "type": "color"
+          }
         }
       },
       "components": {
@@ -3845,7 +3875,7 @@
           "type": "color"
         },
         "900": {
-          "value": "#463e38",
+          "value": "#1a1613",
           "type": "color"
         }
       }
