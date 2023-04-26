@@ -9863,6 +9863,13 @@
           }
         }
       }
+    },
+    "test": {
+      "value": {
+        "color": "{Colors.Amber.700}",
+        "width": "2"
+      },
+      "type": "border"
     }
   },
   "$themes": [],
