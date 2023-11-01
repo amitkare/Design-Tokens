@@ -1437,6 +1437,50 @@
         "value": "none",
         "type": "textCase"
       }
+    },
+    "CoralGables": {
+      "primary": {
+        "50": {
+          "value": "#E6F4F5",
+          "type": "color"
+        },
+        "100": {
+          "value": "#CCE8EA",
+          "type": "color"
+        },
+        "200": {
+          "value": "#9ED3D7",
+          "type": "color"
+        },
+        "300": {
+          "value": "#6BBCC2",
+          "type": "color"
+        },
+        "400": {
+          "value": "#439CA2",
+          "type": "color"
+        },
+        "500": {
+          "value": "#2F6E72",
+          "type": "color"
+        },
+        "600": {
+          "value": "#25575A",
+          "type": "color"
+        },
+        "700": {
+          "value": "#1C4245",
+          "type": "color"
+        },
+        "800": {
+          "value": "#132D2F",
+          "type": "color"
+        },
+        "900": {
+          "value": "#091516",
+          "type": "color"
+        }
+      }
     }
   },
   "light": {
