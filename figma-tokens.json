@@ -765,7 +765,7 @@
         "value": "#ffffff",
         "type": "color"
       },
-      "Lime1": {
+      "Intelligent": {
         "50": {
           "value": "#ECF4B7",
           "type": "color"
@@ -1478,6 +1478,48 @@
         },
         "900": {
           "value": "#091516",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "50": {
+          "value": "#F9EEE6",
+          "type": "color"
+        },
+        "100": {
+          "value": "#F4DFD2",
+          "type": "color"
+        },
+        "200": {
+          "value": "#E8BCA0",
+          "type": "color"
+        },
+        "300": {
+          "value": "#DD9C73",
+          "type": "color"
+        },
+        "400": {
+          "value": "#D37C46",
+          "type": "color"
+        },
+        "500": {
+          "value": "#B35E2B",
+          "type": "color"
+        },
+        "600": {
+          "value": "#904C23",
+          "type": "color"
+        },
+        "700": {
+          "value": "#6B391A",
+          "type": "color"
+        },
+        "800": {
+          "value": "#462511",
+          "type": "color"
+        },
+        "900": {
+          "value": "#251409",
           "type": "color"
         }
       }
@@ -3493,127 +3535,127 @@
     "theme": {
       "primary": {
         "50": {
-          "value": "{Colors.Amber.50}",
+          "value": "{CoralGables.primary.50}",
           "type": "color"
         },
         "100": {
-          "value": "{Colors.Amber.100}",
+          "value": "{CoralGables.primary.100}",
           "type": "color"
         },
         "200": {
-          "value": "{Colors.Amber.200}",
+          "value": "{CoralGables.primary.200}",
           "type": "color"
         },
         "300": {
-          "value": "{Colors.Amber.300}",
+          "value": "{CoralGables.primary.300}",
           "type": "color"
         },
         "400": {
-          "value": "{Colors.Amber.400}",
+          "value": "{CoralGables.primary.400}",
           "type": "color"
         },
         "500": {
-          "value": "{Colors.Amber.500}",
+          "value": "{CoralGables.primary.500}",
           "type": "color"
         },
         "600": {
-          "value": "{Colors.Amber.600}",
+          "value": "{CoralGables.primary.600}",
           "type": "color"
         },
         "700": {
-          "value": "{Colors.Amber.700}",
+          "value": "{CoralGables.primary.700}",
           "type": "color"
         },
         "800": {
-          "value": "{Colors.Amber.800}",
+          "value": "{CoralGables.primary.800}",
           "type": "color"
         },
         "900": {
-          "value": "{Colors.Amber.900}",
+          "value": "{CoralGables.primary.900}",
           "type": "color"
         }
       },
       "secondary": {
         "50": {
-          "value": "{Colors.Cyan.50}",
+          "value": "{CoralGables.secondary.50}",
           "type": "color"
         },
         "100": {
-          "value": "{Colors.Cyan.100}",
+          "value": "{CoralGables.secondary.100}",
           "type": "color"
         },
         "200": {
-          "value": "{Colors.Cyan.200}",
+          "value": "{CoralGables.secondary.200}",
           "type": "color"
         },
         "300": {
-          "value": "{Colors.Cyan.300}",
+          "value": "{CoralGables.secondary.300}",
           "type": "color"
         },
         "400": {
-          "value": "{Colors.Cyan.400}",
+          "value": "{CoralGables.secondary.400}",
           "type": "color"
         },
         "500": {
-          "value": "{Colors.Cyan.500}",
+          "value": "{CoralGables.secondary.500}",
           "type": "color"
         },
         "600": {
-          "value": "{Colors.Cyan.600}",
+          "value": "{CoralGables.secondary.600}",
           "type": "color"
         },
         "700": {
-          "value": "{Colors.Cyan.700}",
+          "value": "{CoralGables.secondary.700}",
           "type": "color"
         },
         "800": {
-          "value": "{Colors.Cyan.800}",
+          "value": "{CoralGables.secondary.800}",
           "type": "color"
         },
         "900": {
-          "value": "{Colors.Cyan.900}",
+          "value": "{CoralGables.secondary.900}",
           "type": "color"
         }
       },
       "gray": {
         "50": {
-          "value": "#faf9f8",
+          "value": "#f9f9fa",
           "type": "color"
         },
         "100": {
-          "value": "#efedea",
+          "value": "#eceeee",
           "type": "color"
         },
         "200": {
-          "value": "#e3e0db",
+          "value": "#dee1e2",
           "type": "color"
         },
         "300": {
-          "value": "#d7d2cb",
+          "value": "#cfd4d4",
           "type": "color"
         },
         "400": {
-          "value": "#c9c3b9",
+          "value": "#bec5c6",
           "type": "color"
         },
         "500": {
-          "value": "#bab2a6",
+          "value": "#acb5b5",
           "type": "color"
         },
         "600": {
-          "value": "#a89f8f",
+          "value": "#97a2a3",
           "type": "color"
         },
         "700": {
-          "value": "#938874",
+          "value": "#7e8c8d",
           "type": "color"
         },
         "800": {
-          "value": "#201e15",
+          "value": "#5f6f71",
           "type": "color"
         },
         "900": {
-          "value": "#17150f",
+          "value": "#344243",
           "type": "color"
         }
       },
