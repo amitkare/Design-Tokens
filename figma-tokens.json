@@ -3659,16 +3659,6 @@
           "type": "color"
         }
       },
-      "brand": {
-        "white": {
-          "value": "{Colors.white}",
-          "type": "color"
-        },
-        "black": {
-          "value": "{Colors.black}",
-          "type": "color"
-        }
-      },
       "status": {
         "warning": {
           "default": {
@@ -3762,7 +3752,7 @@
       "fonts": {
         "heading": {
           "default": {
-            "value": "{theme.fg.default}",
+            "value": "#2f2d2a",
             "type": "color"
           },
           "emphasis": {
@@ -3772,40 +3762,34 @@
         },
         "body": {
           "default": {
-            "value": "{theme.fg.default}",
+            "value": "#58524B",
             "type": "color"
           },
           "subtle": {
-            "value": "{theme.fg.subtle}",
+            "value": "#6A6968",
             "type": "color"
           },
           "muted": {
-            "value": "{theme.fg.muted}",
+            "value": "#969594",
+            "type": "color"
+          },
+          "emphasis": {
+            "value": "{CoralGables.primary.500}",
             "type": "color"
           }
         },
         "input": {
           "background": {
-            "value": "{theme.input.background}",
+            "value": "#ffffff",
             "type": "color"
           },
           "placeholder": {
-            "value": "{theme.input.placeholder}",
+            "value": "#969594",
             "type": "color"
           },
           "text": {
-            "value": "{theme.input.text}",
+            "value": "#2F2D2A",
             "type": "color"
-          },
-          "border": {
-            "default": {
-              "value": "{theme.input.border.default}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{theme.input.border.disabled}",
-              "type": "color"
-            }
           }
         },
         "button": {
@@ -3831,30 +3815,6 @@
           },
           "text-button-secondary": {
             "value": "{theme.fg.text-secondary}",
-            "type": "color"
-          }
-        }
-      },
-      "components": {
-        "selection controls": {
-          "outline": {
-            "value": "{theme.fg.components.selectioncontrols.outline}",
-            "type": "color"
-          },
-          "fill": {
-            "value": "{theme.fg.components.selectioncontrols.fill}",
-            "type": "color"
-          }
-        },
-        "table": {
-          "filled-cell": {
-            "value": "{theme.fg.components.table.filled-cell}",
-            "type": "color"
-          }
-        },
-        "callouts": {
-          "bg": {
-            "value": "{theme.fg.components.callouts.bg}",
             "type": "color"
           }
         }
