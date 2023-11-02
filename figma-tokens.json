@@ -3791,32 +3791,6 @@
             "value": "#2F2D2A",
             "type": "color"
           }
-        },
-        "button": {
-          "default": {
-            "value": "{theme.fg.default}",
-            "type": "color"
-          },
-          "outline-bgcolor": {
-            "value": "{theme.bg.surface}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{theme.fg.button-text}",
-            "type": "color"
-          },
-          "text-color-secondary": {
-            "value": "{theme.fg.button-text-secondary}",
-            "type": "color"
-          },
-          "text-button": {
-            "value": "{theme.fg.text}",
-            "type": "color"
-          },
-          "text-button-secondary": {
-            "value": "{theme.fg.text-secondary}",
-            "type": "color"
-          }
         }
       }
     },
