@@ -3790,6 +3790,10 @@
           "text": {
             "value": "#2F2D2A",
             "type": "color"
+          },
+          "label": {
+            "value": "#2f2d2a",
+            "type": "color"
           }
         }
       }
