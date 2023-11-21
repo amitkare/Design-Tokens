@@ -4879,7 +4879,7 @@
       "type": "opacity"
     }
   },
-  "SG Alert": {
+  "Panama": {
     "border radius": {
       "default": {
         "value": "4",
@@ -5796,7 +5796,7 @@
       "global template",
       "CoralGables",
       "SG Alert_new",
-      "SG Alert"
+      "Panama"
     ]
   }
 }
