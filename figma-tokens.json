@@ -5087,7 +5087,7 @@
           "type": "color"
         },
         "buttons": {
-          "value": "{Theme.Secondary.color}",
+          "value": "{Theme.Primary.color}",
           "type": "color"
         },
         "AppText": {
@@ -5142,7 +5142,7 @@
           "type": "color"
         },
         "buttons": {
-          "value": "{Theme.Secondary.color}",
+          "value": "{Theme.Primary.color}",
           "type": "color"
         },
         "AppText": {
