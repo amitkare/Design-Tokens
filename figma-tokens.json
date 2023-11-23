@@ -4917,7 +4917,7 @@
           "type": "color"
         },
         "CarousalText": {
-          "value": "#fffff",
+          "value": "#fff",
           "type": "color"
         },
         "ClickableText": {
