@@ -5031,6 +5031,16 @@
         "ClickableText": {
           "value": "#0284C7",
           "type": "color"
+        },
+        "icon": {
+          "BG": {
+            "value": "{Theme.Secondary.color}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Theme.Primary.color}",
+            "type": "color"
+          }
         }
       }
     }
