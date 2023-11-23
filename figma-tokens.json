@@ -4887,13 +4887,13 @@
     "Theme": {
       "Primary": {
         "color": {
-          "value": "#2A5F9E",
+          "value": "#F25D0D",
           "type": "color"
         }
       },
       "Secondary": {
         "color": {
-          "value": "#ED4C5C",
+          "value": "#272729",
           "type": "color"
         }
       },
@@ -4975,6 +4975,50 @@
     "Theme": {
       "Primary": {
         "color": {
+          "value": "#2E2D75",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "color": {
+          "value": "#C3E5F9",
+          "type": "color"
+        }
+      },
+      "grey": {
+        "color": {
+          "value": "#EAEAEB",
+          "type": "color"
+        }
+      },
+      "UI": {
+        "title": {
+          "value": "{Theme.Primary.color}",
+          "type": "color"
+        },
+        "buttons": {
+          "value": "{Theme.Primary.color}",
+          "type": "color"
+        },
+        "AppText": {
+          "value": "#050505",
+          "type": "color"
+        },
+        "CarousalText": {
+          "value": "#fffff",
+          "type": "color"
+        },
+        "ClickableText": {
+          "value": "#0284C7",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "Panama.theme": {
+    "Theme": {
+      "Primary": {
+        "color": {
           "value": "#2A5F9E",
           "type": "color"
         }
@@ -5015,17 +5059,17 @@
       }
     }
   },
-  "Panama.theme": {
+  "CoralGables.theme": {
     "Theme": {
       "Primary": {
         "color": {
-          "value": "#F25D0D",
+          "value": "#2F6E72",
           "type": "color"
         }
       },
       "Secondary": {
         "color": {
-          "value": "#272729",
+          "value": "#B35E2B",
           "type": "color"
         }
       },
@@ -5042,50 +5086,6 @@
         },
         "buttons": {
           "value": "{Theme.Secondary.color}",
-          "type": "color"
-        },
-        "AppText": {
-          "value": "#050505",
-          "type": "color"
-        },
-        "CarousalText": {
-          "value": "#fffff",
-          "type": "color"
-        },
-        "ClickableText": {
-          "value": "#0284C7",
-          "type": "color"
-        }
-      }
-    }
-  },
-  "CoralGables.theme": {
-    "Theme": {
-      "Primary": {
-        "color": {
-          "value": "#2E2D75",
-          "type": "color"
-        }
-      },
-      "Secondary": {
-        "color": {
-          "value": "#C3E5F9",
-          "type": "color"
-        }
-      },
-      "grey": {
-        "color": {
-          "value": "#EAEAEB",
-          "type": "color"
-        }
-      },
-      "UI": {
-        "title": {
-          "value": "{Theme.Primary.color}",
-          "type": "color"
-        },
-        "buttons": {
-          "value": "{Theme.Primary.color}",
           "type": "color"
         },
         "AppText": {
