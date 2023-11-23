@@ -4924,13 +4924,15 @@
           "value": "#0284C7",
           "type": "color"
         },
-        "iconBG": {
-          "value": "#FCDFCF",
-          "type": "color"
-        },
-        "iconBorder": {
-          "value": "{Theme.Secondary.color}",
-          "type": "color"
+        "icon": {
+          "BG": {
+            "value": "#FCDFCF",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Theme.Secondary.color}",
+            "type": "color"
+          }
         }
       }
     }
@@ -4975,6 +4977,16 @@
         "ClickableText": {
           "value": "#0284C7",
           "type": "color"
+        },
+        "icon": {
+          "BG": {
+            "value": "#FFE8A4",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Theme.Primary.color}",
+            "type": "color"
+          }
         }
       }
     }
