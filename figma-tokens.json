@@ -4933,6 +4933,12 @@
             "value": "{Theme.Secondary.color}",
             "type": "color"
           }
+        },
+        "button": {
+          "border": {
+            "value": "{Theme.UI.buttons}",
+            "type": "color"
+          }
         }
       }
     }
