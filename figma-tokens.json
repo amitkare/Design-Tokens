@@ -4923,6 +4923,14 @@
         "ClickableText": {
           "value": "#0284C7",
           "type": "color"
+        },
+        "iconBG": {
+          "value": "#FCDFCF",
+          "type": "color"
+        },
+        "iconBorder": {
+          "value": "{Theme.Secondary.color}",
+          "type": "color"
         }
       }
     }
