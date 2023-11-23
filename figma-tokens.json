@@ -4939,6 +4939,16 @@
             "value": "{Theme.UI.buttons}",
             "type": "color"
           }
+        },
+        "nav": {
+          "active": {
+            "value": "{Theme.Secondary.color}",
+            "type": "color"
+          },
+          "nonactive": {
+            "value": "{Theme.grey.color}",
+            "type": "color"
+          }
         }
       }
     }
