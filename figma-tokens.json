@@ -5132,7 +5132,8 @@
       "grey": {
         "color": {
           "value": "#EAEAEB",
-          "type": "color"
+          "type": "color",
+          "description": "Test"
         }
       },
       "UI": {
