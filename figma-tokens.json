@@ -4946,7 +4946,7 @@
             "type": "color"
           },
           "nonactive": {
-            "value": "#D3D3D5",
+            "value": "#d3d3d5",
             "type": "color"
           }
         }
