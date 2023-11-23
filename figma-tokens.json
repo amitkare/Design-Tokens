@@ -5787,6 +5787,50 @@
       "type": "opacity"
     }
   },
+  "SGAlert.theme": {
+    "Theme": {
+      "Primary": {
+        "color": {
+          "value": "#F25D0D",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "color": {
+          "value": "#272729",
+          "type": "color"
+        }
+      },
+      "grey": {
+        "color": {
+          "value": "#EAEAEB",
+          "type": "color"
+        }
+      },
+      "UI": {
+        "title": {
+          "value": "{Theme.Primary.color}",
+          "type": "color"
+        },
+        "buttons": {
+          "value": "{Theme.Secondary.color}",
+          "type": "color"
+        },
+        "AppText": {
+          "value": "#050505",
+          "type": "color"
+        },
+        "CarousalText": {
+          "value": "#fffff",
+          "type": "color"
+        },
+        "ClickableText": {
+          "value": "#0284C7",
+          "type": "color"
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -5796,7 +5840,8 @@
       "global template",
       "CoralGables",
       "SG Alert_new",
-      "Panama"
+      "Panama",
+      "SGAlert.theme"
     ]
   }
 }
