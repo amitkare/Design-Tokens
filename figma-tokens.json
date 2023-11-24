@@ -4949,6 +4949,12 @@
             "value": "#d3d3d5",
             "type": "color"
           }
+        },
+        "checkbox": {
+          "active": {
+            "value": "{Theme.Primary.color}",
+            "type": "color"
+          }
         }
       }
     }
