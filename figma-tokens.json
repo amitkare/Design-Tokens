@@ -5226,6 +5226,16 @@
             "value": "{Theme.grey.color}",
             "type": "color"
           }
+        },
+        "nav": {
+          "active": {
+            "value": "{Theme.Primary.color}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{Theme.grey.color}",
+            "type": "color"
+          }
         }
       }
     }
