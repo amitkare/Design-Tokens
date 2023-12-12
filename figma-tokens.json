@@ -5024,10 +5024,6 @@
           "title": {
             "value": "{Theme.Primary.color}",
             "type": "color"
-          },
-          "Divider": {
-            "value": "{Theme.grey.400}",
-            "type": "color"
           }
         },
         "icon": {
@@ -5127,6 +5123,12 @@
           },
           "ErrorMessage": {
             "value": "#fecaca",
+            "type": "color"
+          }
+        },
+        "Divider": {
+          "divider": {
+            "value": "{Theme.grey.400}",
             "type": "color"
           }
         }
