@@ -4979,7 +4979,7 @@
       },
       "grey": {
         "50": {
-          "value": "#f9f9fa",
+          "value": "#ffffff",
           "type": "color"
         },
         "100": {
@@ -5020,17 +5020,11 @@
         }
       },
       "UI": {
-        "title": {
-          "value": "{Theme.Primary.color}",
-          "type": "color"
-        },
-        "CarousalText": {
-          "value": "#fffff",
-          "type": "color"
-        },
-        "title_text": {
-          "value": "#fffff",
-          "type": "color"
+        "Title": {
+          "title": {
+            "value": "{Theme.Primary.color}",
+            "type": "color"
+          }
         },
         "icon": {
           "BG": {
@@ -5058,7 +5052,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "#727273",
+            "value": "{Theme.grey.700}",
             "type": "color"
           }
         },
@@ -5099,6 +5093,14 @@
           },
           "body2": {
             "value": "{Theme.grey.700}",
+            "type": "color"
+          },
+          "carousel": {
+            "value": "{Theme.grey.50}",
+            "type": "color"
+          },
+          "title": {
+            "value": "{Theme.grey.50}",
             "type": "color"
           }
         }
