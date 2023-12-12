@@ -5024,6 +5024,10 @@
           "title": {
             "value": "{Theme.Primary.color}",
             "type": "color"
+          },
+          "Divider": {
+            "value": "{Theme.grey.400}",
+            "type": "color"
           }
         },
         "icon": {
@@ -5096,11 +5100,33 @@
             "type": "color"
           },
           "carousel": {
-            "value": "{Theme.grey.50}",
+            "value": "{Theme.grey.900}",
             "type": "color"
           },
           "title": {
             "value": "{Theme.grey.50}",
+            "type": "color"
+          }
+        },
+        "Alert": {
+          "critical": {
+            "value": "#CA8A04",
+            "type": "color"
+          },
+          "Emergency": {
+            "value": "#DC2626",
+            "type": "color"
+          },
+          "Sucess": {
+            "value": "#16a34a",
+            "type": "color"
+          },
+          "Regular": {
+            "value": "#057fe4",
+            "type": "color"
+          },
+          "ErrorMessage": {
+            "value": "#fecaca",
             "type": "color"
           }
         }
