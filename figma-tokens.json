@@ -4956,7 +4956,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "{Theme.grey.color}",
+            "value": "{Theme.grey.50}",
             "type": "color"
           }
         }
@@ -4978,8 +4978,44 @@
         }
       },
       "grey": {
-        "color": {
-          "value": "#EAEAEB",
+        "50": {
+          "value": "#f9f9fa",
+          "type": "color"
+        },
+        "100": {
+          "value": "#ededee",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e1e1e2",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d3d3d5",
+          "type": "color"
+        },
+        "400": {
+          "value": "#c3c3c6",
+          "type": "color"
+        },
+        "500": {
+          "value": "#b3b3b6",
+          "type": "color"
+        },
+        "600": {
+          "value": "#9f9fa4",
+          "type": "color"
+        },
+        "700": {
+          "value": "#6d6d6d",
+          "type": "color"
+        },
+        "800": {
+          "value": "#434343",
+          "type": "color"
+        },
+        "900": {
+          "value": "#050505",
           "type": "color"
         }
       },
@@ -4988,20 +5024,12 @@
           "value": "{Theme.Primary.color}",
           "type": "color"
         },
-        "buttons": {
-          "value": "{Theme.Primary.color}",
-          "type": "color"
-        },
-        "AppText": {
-          "value": "#050505",
-          "type": "color"
-        },
         "CarousalText": {
           "value": "#fffff",
           "type": "color"
         },
-        "ClickableText": {
-          "value": "#0284C7",
+        "title_text": {
+          "value": "#fffff",
           "type": "color"
         },
         "icon": {
@@ -5020,7 +5048,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "{Theme.grey.color}",
+            "value": "{Theme.grey.400}",
             "type": "color"
           }
         },
@@ -5030,7 +5058,47 @@
             "type": "color"
           },
           "inactive": {
-            "value": "{Theme.grey.color}",
+            "value": "#727273",
+            "type": "color"
+          }
+        },
+        "button": {
+          "outline": {
+            "value": "{Theme.Primary.color}",
+            "type": "color"
+          },
+          "outlineText": {
+            "value": "{Theme.Primary.color}",
+            "type": "color"
+          },
+          "filled": {
+            "value": "{Theme.Primary.color}",
+            "type": "color"
+          },
+          "textbutton": {
+            "value": "#0284c7",
+            "type": "color"
+          },
+          "filledbuttonText": {
+            "value": "#fffff",
+            "type": "color"
+          }
+        },
+        "text": {
+          "headline": {
+            "value": "{Theme.grey.900}",
+            "type": "color"
+          },
+          "subheadline": {
+            "value": "{Theme.grey.900}",
+            "type": "color"
+          },
+          "body1": {
+            "value": "{Theme.grey.800}",
+            "type": "color"
+          },
+          "body2": {
+            "value": "{Theme.grey.700}",
             "type": "color"
           }
         }
@@ -5094,7 +5162,7 @@
             "type": "color"
           },
           "active-copy": {
-            "value": "{Theme.grey.color}",
+            "value": "{Theme.grey.50}",
             "type": "color"
           }
         },
@@ -5104,7 +5172,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "{Theme.grey.color}",
+            "value": "{Theme.grey.50}",
             "type": "color"
           }
         }
@@ -5178,7 +5246,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "{Theme.grey.color}",
+            "value": "{Theme.grey.50}",
             "type": "color"
           }
         }
@@ -5243,7 +5311,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "{Theme.grey.color}",
+            "value": "{Theme.grey.50}",
             "type": "color"
           }
         },
@@ -5253,7 +5321,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "{Theme.grey.color}",
+            "value": "{Theme.grey.50}",
             "type": "color"
           }
         }
